@@ -39,6 +39,9 @@
 
 - (replace this line with a single short rule label, e.g. `politics`)
 - (add more bullets, or remove this section entirely if you want no hard filters)
+- 'sports'
+- 'violence'
+
 
 ---
 
