@@ -25,6 +25,9 @@
 
 - (replace this line with a topic you want ranked highly)
 - (add as many bullets as you like)
+- 'historic jewelry'
+- 'chemistry'
+- 'dogs'
 
 ---
 
@@ -40,7 +43,8 @@
 - (replace this line with a single short rule label, e.g. `politics`)
 - (add more bullets, or remove this section entirely if you want no hard filters)
 - 'sports'
-- 'violence'
+- 'politics'
+- 'bugs'
 
 
 ---
@@ -62,9 +66,9 @@ Hard filters are the only grounds for exclusion. If a post doesn't hit a rule un
 > *List your tiebreakers. When two posts score similarly, the order below
 > decides. Edit and reorder freely.*
 
-1. (your top tiebreaker — e.g. "Hands-on > theoretical")
-2. (next tiebreaker)
-3. (and so on)
+1. music > theater
+2. jewelry > fashion
+3. science > math
 
 ---
 
